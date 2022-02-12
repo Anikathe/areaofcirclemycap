@@ -1,0 +1,7 @@
+import math
+
+r=24
+
+area=math.pi * r * r
+
+print("Area of the circle with given radius is " + str(area))
